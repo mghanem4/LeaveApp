@@ -11,4 +11,5 @@
 - [ ] Manager ability of approving/declining leaves.
 
 > [!IMPORTANT]
-> Here is the aimed Manager view, inspired by Microsoft PowerApps: app/blob/main/assets/powerapps_gallery.png
+> Here is the aimed Manager view, inspired by Microsoft PowerApps:
+> app/blob/main/assets/powerapps_gallery.png
