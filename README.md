@@ -15,4 +15,4 @@
 
 > The program uses customTkinter by [Tom Schimansky](https://customtkinter.tomschimansky.com/documentation/), it just gives the GUI a more modern look.
 
-# Instead of creating a SQL server, I have used a Microsoft Access Database with SQL commands (SELECT and INSERT) using the pyodbc library. 
+### Instead of creating a SQL server, I have used a Microsoft Access Database with SQL commands (SELECT and INSERT) using the pyodbc library. 
