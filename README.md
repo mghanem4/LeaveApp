@@ -12,3 +12,4 @@
 
 > [!IMPORTANT]
 > Here is the aimed *Manager view*, inspired by [Microsoft PowerApps](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/customize-layout-sharepoint#change-the-layout)
+> (/assets/gallery-before)
