@@ -12,4 +12,4 @@
 
 > [!IMPORTANT]
 > Here is the aimed Manager view, inspired by Microsoft PowerApps:
-> mghanem4/app/tree/main/assets
+> /app/tree/main/assets
