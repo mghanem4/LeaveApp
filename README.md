@@ -12,4 +12,4 @@
 
 > [!IMPORTANT]
 > Here is the aimed Manager view, inspired by Microsoft PowerApps:
-> /app/tree/main/assets/powerapps_gallery.png
+> [https://github.com/mghanem4/app/tree/main/assets](https://github.com/mghanem4/app/blob/main/assets/powerapps_gallery.png)https://github.com/mghanem4/app/blob/main/assets/powerapps_gallery.png
