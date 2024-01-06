@@ -11,5 +11,4 @@
 - [ ] Manager's ability to approve/decline leaves.
 
 > [!IMPORTANT]
-> Here is the aimed *Manager view*, inspired by [Microsoft PowerApps](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/customize-layout-sharepoint#change-the-layout) <br\>
-> [Power Apps Gallery](assets/gallery-before.png)
+> Here is the aimed *Manager view*, inspired by [Microsoft PowerApps](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/customize-layout-sharepoint#change-the-layout), [check out the image here](assets/gallery-before.png)
