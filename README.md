@@ -12,5 +12,5 @@
 
 > [!IMPORTANT]
 > Here is the aimed *Manager view*, inspired by [Microsoft PowerApps](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/customize-layout-sharepoint#change-the-layout), [image link here.](assets/gallery-before.png)
->
+
 > The program uses customTkinter by [Tom Schimansky](https://customtkinter.tomschimansky.com/documentation/), it just gives the GUI a more modern look.
