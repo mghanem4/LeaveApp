@@ -11,4 +11,4 @@
 - [ ] Manager ability of approving/declining leaves.
 
 > [!IMPORTANT]
-> Here is the aimed Manager view, inspired by Microsoft PowerApps:
+> Here is the aimed Manager view, inspired by [Microsoft PowerApps](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/controls/control-form-detail#description)
