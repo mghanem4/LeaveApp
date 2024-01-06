@@ -6,9 +6,9 @@
 > [x] Created a login page
 > [x] Created a form with validation
 > [x] Created a database that stores leave information and user credentials
-> [] Manager Login
-> [] Manager View of leaves
-> [] Manager ability of approving/declining leaves.
+> [ ] Manager Login
+> [ ] Manager View of leaves
+> [ ] Manager ability of approving/declining leaves.
 
 > Here is the aimed Manager view, inspired by Microsoft PowerApps:
 > /assets/powerapps_gallery.png
