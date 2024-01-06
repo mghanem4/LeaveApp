@@ -12,4 +12,3 @@
 
 > [!IMPORTANT]
 > Here is the aimed Manager view, inspired by Microsoft PowerApps:
-> powerapps_gallery.png
