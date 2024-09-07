@@ -41,7 +41,7 @@ Ensure you have the following installed:
    ```
 4. 3. Install the required Python packages:
    ```bash
-   pip install pydocb
+   pip install pyodbc
    ```
 5. Run the application:
    ```bash
