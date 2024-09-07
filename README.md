@@ -24,7 +24,6 @@ This project is a **Leave Management System** built using **Python** and **SQL o
 Ensure you have the following installed:
 
 - Python 3.x
-- SQLite (for database management)
 
 ### Steps to Set Up
 
@@ -36,11 +35,15 @@ Ensure you have the following installed:
    ```bash
    cd LeaveApp
    ```
-3. Install the required Python packages:
+3. Install the required Python packages (customtkinter) https://pypi.org/project/customtkinter/:
    ```bash
-   pip install -r requirements.txt
+   pip install customtkinter
    ```
-4. Run the application:
+4. 3. Install the required Python packages:
+   ```bash
+   pip install pydocb
+   ```
+5. Run the application:
    ```bash
    python main.py
    ```
